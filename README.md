@@ -111,12 +111,18 @@ If you need help or would like to discuss diamonds then send me a message [on tw
 
 ## Author
 
-This example implementation was written by Nick Mudge.
+This example implementation was written by Nick Mudge and modified by Jesse Raymond.
 
-Contact:
+Our Contact:
 
+#### Nick Mudge:
 - https://twitter.com/mudgen
 - nick@perfectabstractions.com
+
+#### Jesse Raymond:
+- https://twitter.com/Jesserc_
+- raymondjesse713@gmail.com
+
 
 ## License
 
